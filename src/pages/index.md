@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Harsh gupta
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: now this is about me how does it looks
     actions:
       - label: Try Free
         url: /pricing
